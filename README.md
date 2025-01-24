@@ -1,6 +1,6 @@
 # CNN Model for Waste Classification
 
-<h1 align="center">Hi there, K. Monisha 👋</h1>
+<h1 align="center">Hi there, I'm K. Monisha 👋</h1>
 <h3 align="center">Enthusiastic AI & DS Student</h3>
 
 --
